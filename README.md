@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kibblewhite
-- 👀 I’m interested in: C# Micro Services and Project Management
-- 🌱 I’m currently learning: Improve all things C# related and being a better project lead by learning better soft skills 
-- 💞️ I’m looking to collaborate on: A good project that a team and myself can get in to.
-- 📫 How to reach me: email is the best way
+- 👋 Hi, my name is @kibblewhite.
+- 👀 I’m interested in: C# Micro Services and Project Management. I have experience in these areas and am always looking to expand my knowledge and skills.
+- 🌱 I’m currently learning: To improve my skills in all things related to C#, as well as developing my abilities as a project lead by learning important soft skills such as communication, teamwork, and leadership.
+- 💞️ I’m looking to collaborate on: Great projects where I can utilize my skills and experience as part of a team.
+- 📫 How to reach me: The best way to reach me is through linkedin, and I am happy to connect and discuss potential collaboration opportunities.
 
 <!---
 kibblewhite/kibblewhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
