@@ -8,3 +8,15 @@
 kibblewhite/kibblewhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Topics
+- Docker/Kubetnetes, 
+- Microservices ( gRPC ),
+- Entity Framework ( Code First / Fluent API / LINQ ), 
+- DDD/CQRS/SQL, 
+- Nginx/Kestrel, 
+- Visual Studio / Visual Studio Code, 
+- Agile Development Environment, 
+- GitLab ( CI/CD ), 
+- Non-linear workday practitioner, 
+- Stanford.NLP for .NET, 
