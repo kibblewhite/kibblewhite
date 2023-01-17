@@ -1,3 +1,4 @@
+## Welcome
 - 👋 Hi, my name is @kibblewhite.
 - 👀 I’m interested in: C# Micro Services and Project Management. I have experience in these areas and am always looking to expand my knowledge and skills.
 - 🌱 I’m currently learning: To improve my skills in all things related to C#, as well as developing my abilities as a project lead by learning important soft skills such as communication, teamwork, and leadership.
@@ -9,7 +10,7 @@ kibblewhite/kibblewhite is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Topics
+#### Topics of Interest
 - Docker/Kubetnetes, 
 - Microservices ( gRPC ),
 - Entity Framework ( Code First / Fluent API / LINQ ), 
