@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 - DDD/CQRS/SQL/TDD
 - Nginx/Kestrel
 - Visual Studio / Visual Studio Code
+- Blazor/WASM
 - Agile Development Environment
 - GitLab ( CI/CD )
 - Non-linear workday practitioner
