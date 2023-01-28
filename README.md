@@ -1,6 +1,6 @@
 ## Welcome
 - 👋 Hi, my name is @kibblewhite.
-- 👀 I’m interested in: C# Micro Services and Project Management. I have experience in these areas and am always looking to expand my knowledge and skills.
+- 👀 I’m interested in: C# Microservices and Project Management. I have experience in these areas and am always looking to expand my knowledge and skills.
 - 🌱 I’m currently learning: To improve my skills in all things related to C#, as well as developing my abilities as a project lead by learning important soft skills such as communication, teamwork, and leadership.
 - 💞️ I’m looking to collaborate on: Great projects where I can utilize my skills and experience as part of a team.
 - 📫 How to reach me: The best way to reach me is through [linkedin](https://www.linkedin.com/in/kibblewhite/), and I am happy to connect and discuss potential collaboration opportunities.
