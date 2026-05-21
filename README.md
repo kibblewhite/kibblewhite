@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning: To improve my skills in all things related to C#, as well as developing my abilities as a project lead by learning important soft skills such as communication, teamwork, and leadership.
 - 💞️ I’m looking to collaborate on: Great projects where I can utilize my skills and experience as part of a team.
 - 📫 How to reach me: The best way to reach me is through [linkedin](https://www.linkedin.com/in/kibblewhite/), and I am happy to connect and discuss potential collaboration opportunities.
+- ⏳ Non-linear workday practitioner (microshifting)
+    - I structure my workday in short, focused blocks aligned with my energy and responsibilities, rather than a fixed 9–5 schedule.
 
 <!---[
 ](https://www.linkedin.com/in/kibblewhite/)
@@ -21,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 - Blazor/WASM
 - Agile Development Environment
 - GitLab ( CI/CD )
-- Non-linear workday practitioner
+- Non-linear workday practitioner (microshifting)
 - Stanford.NLP for .NET
