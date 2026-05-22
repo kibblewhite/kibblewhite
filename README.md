@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - Docker/Kubernetes
 - Microservices ( w/gRPC )
 - Entity Framework ( Code First / Fluent API / LINQ )
-- DDD/CQRS/SQL/TDD
+- DDD/CQRS/SQL/Spec-Driven Development
 - Nginx/Kestrel
 - Visual Studio / Visual Studio Code
 - Blazor/WASM
